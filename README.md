@@ -5,4 +5,4 @@ single-phase reactive Euler equations with arrhenius kinetics.
 
 #### Build
 
-`g++ arrDetonation.cpp`
+`g++ arrDetonation1D.cpp`
