@@ -1,0 +1,14 @@
+|||||||||||||||||||||||||||||||||***SIMULATION: detonation***||||||||||||||||||||||||||||||||||
+Domain length = 1. No. of cells = 1000
+Separation diaphragm at x0 = 0.5
+Simulation target time = 1.4
+|||||||||||||||||||||||||||||||***INITIAL CONDITIONS***||||||||||||||||||||||||||||||||||
+LEFT				RIGHT
+Density_l = 0.259259		 Density_r = 0.259259
+Velocity_l = -1.35769		 Velocity_r = -1.35769
+Pressure_l = 0.0967742		 Pressure_r = 0.0967742
+H2_l = 1			 H2_r = 1
+O2_l = 0			 O2_r = 0
+Ar_l = 0			 Ar_r = 0
+ps. above data come from cells no. 250 for left side and no. 750 for right side.
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
